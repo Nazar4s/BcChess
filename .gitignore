@@ -1,0 +1,23 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Generated datasets and downloaded chess games
+processed_data/
+chessdata/
+
+# Model checkpoints and training outputs
+models/
+*.pth
+*.pt
+*.onnx
+
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

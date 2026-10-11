@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "8cea65d92a2d62f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "27141989509d7cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e74a0dbd042f22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Иссточники/GradCAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GradCAM"
+            }
+          },
+          {
+            "id": "cf0da15c6ec43540",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "dd45575af08b4c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Литература/Neural Networks for Chess.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Networks for Chess"
+            }
+          },
+          {
+            "id": "a054cfdd59275919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Литература/Список литературы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Список литературы"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49d52545572f1b18",
+    "type": "split",
+    "children": [
+      {
+        "id": "87207ad17d5a7208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5bbd15291d4e10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "2c2e5aa772a09d06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:deep-learning",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9c74341acf0fb3c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fbb535f5da24181d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18253482ebc7bd58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "620a73b5bd11e414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Литература/Tracking vs. Deciding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Tracking vs. Deciding"
+            }
+          },
+          {
+            "id": "37657134e0b20d80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Литература/Tracking vs. Deciding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Tracking vs. Deciding"
+            }
+          },
+          {
+            "id": "d7adc38caa4d1f6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "00cedaaf71621262",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "75a6eb3ecf73fdc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Литература/Tracking vs. Deciding.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Tracking vs. Deciding"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "cf0da15c6ec43540",
+  "lastOpenFiles": [
+    "Human-like Chess Engines.md",
+    "02_Литература/Neural Networks for Chess.md",
+    "05_Концепты/Stockfish.md",
+    "01_Иссточники/GradCAM.md",
+    "02_Литература/Tracking vs. Deciding.md",
+    "02_Литература/Information based explanation methods for deep learning agents.md",
+    "02_Литература/📖 Последовательность изучения литературы «с нуля» (обновленная).md",
+    "02_Литература/РАЗРЕШЕННЫЕ И ЗАПРЕЩЕННЫЕ АРХИТЕКТУРЫ МОДУЛЬНЫХ СЕТЕЙ.md",
+    "02_Литература/Список литературы.md",
+    "03_Заметки/MNN.md",
+    "03_Заметки/Ensemble Learning.md",
+    "02_Литература/USING MODULAR NEURAL NETWORKS AND MACHINE LEARNING WITH REINFORCEMENT LEARNING TO SOLVE CLASSIFICATION PROBLEMS.md",
+    "05_Концепты/Mixture of Experts.md",
+    "01_Иссточники/LCZero_arch.md",
+    "01_Иссточники/II-map.md",
+    "06_Полезности_на_практическую_часть/XAI.md",
+    "Шаблон - иллюстрация.md",
+    "05_Концепты/LCZero.md",
+    "03_Заметки/AlphaZero.md",
+    "images/LCZero_arch.png",
+    "Шаблон литературы.md",
+    "images/Grad-CAM.png",
+    "images/II-map.png",
+    "05_Концепты/Black Box.md",
+    "Сверточные нейронные сети.md",
+    "Pasted image 20260609202145.png",
+    "03_Заметки/Maia Chess.md",
+    "05_Концепты/Го.md",
+    "05_Концепты/Эффект горизонта.md",
+    "Альфа-Бета.md",
+    "images/screen_Q.png",
+    "06_Полезности_на_практическую_часть",
+    "images/segy.jpg",
+    "images/download.jpg",
+    "images/go.jpg",
+    "images",
+    "05_Концепты",
+    "04_Скриншоты_Графики",
+    "03_Заметки",
+    "01_Иссточники",
+    "02_Литература"
+  ]
+}
